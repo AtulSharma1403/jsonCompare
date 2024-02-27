@@ -1,0 +1,22 @@
+{
+  "name": "json-collate",
+  "version": "1.0.0",
+  "description": "Compare two json data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtulSharma1403/jsonCompare.git"
+  },
+  "keywords": [
+    "json-collate"
+  ],
+  "author": "Atul Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtulSharma1403/jsonCompare/issues"
+  },
+  "homepage": "https://github.com/AtulSharma1403/jsonCompare#readme"
+}
